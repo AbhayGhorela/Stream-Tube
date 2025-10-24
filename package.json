@@ -1,0 +1,16 @@
+{
+  "name": "stream-tube",
+  "version": "1.0.0",
+  "description": "a platform where everyone share videos,tweet,post etc.",
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Abhay Kumar Ghorela",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
